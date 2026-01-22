@@ -23,7 +23,7 @@ The goal is to build a robust regression model capable of predicting the continu
 ## 🚀 Repository Structure
 ```text
 Day-03-House-Prices/
-├── Project-House_Price_Prediction.ipynb   # Full ML Pipeline
+├── Project_House_Price_Prediction.ipynb   # Full ML Pipeline
 ├── train.csv                              # Training Data
 ├── test.csv                               # Testing Data
 └── README.md                              # Project documentation
